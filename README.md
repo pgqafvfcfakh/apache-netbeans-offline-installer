@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Java+IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Apache NetBeans Free Installer** — Apache NetBeans is a free, open-source IDE for Java, JavaScript, PHP, HTML5, and C/C++ supported by the Apache Software Foundation. Works without internet access, no account required. Full offline installation.
+**💻 Apache NetBeans Free Installer** — Apache NetBeans is a free, open-source IDE for Java, PHP, HTML5, and C++ development with a rich plugin ecosystem. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Apache NetBeans
 
-Apache NetBeans is a free, open-source IDE for Java, JavaScript, PHP, HTML5, and C/C++ supported by the Apache Software Foundation. Features include smart code completion, refactoring, Maven/Gradle support, integrated GUI Builder for Swing applications, and version control integration. NetBeans has a long history in Java development and remains popular in educational and enterprise environments.
+Apache NetBeans is a free, open-source IDE for Java, PHP, HTML5, and C++ development with a rich plugin ecosystem. Originally from Sun Microsystems, now maintained by Apache, it provides smart code editing, debugging, and Maven/Gradle integration.
 
 ---
 
 ## ❌ Problem: Apache NetBeans is hard to access
 
-- **Memory Usage** — Relatively high memory consumption for an open-source IDE
-- **Performance** — Can be slower than IntelliJ IDEA for large projects
-- **Plugin Ecosystem** — Smaller plugin community than JetBrains or VS Code
-- **Modern UI** — Interface less polished than current commercial IDEs
+- **Resource Intensive** — Heavy memory usage especially for large Java projects
+- **Slower Than IntelliJ** — Code intelligence and refactoring less advanced than IntelliJ IDEA
+- **Declining Popularity** — IntelliJ IDEA Community and VS Code have taken much of its market
+- **Startup Time** — Longer to start than lighter IDE alternatives
 
 ---
 
@@ -121,7 +121,7 @@ Apache NetBeans is a free, open-source IDE for Java, JavaScript, PHP, HTML5, and
 
 ---
 
-**Apache NetBeans Free Installer** — Apache NetBeans is a free, open-source IDE for Java, JavaScript, PHP, HTML5, and C/C++ supported by the Apache Software Foundation. Install without internet connection today!
+**Apache NetBeans Free Installer** — Apache NetBeans is a free, open-source IDE for Java, PHP, HTML5, and C++ development with a rich plugin ecosystem. Install without internet connection today!
 
 <div align="center">
 
